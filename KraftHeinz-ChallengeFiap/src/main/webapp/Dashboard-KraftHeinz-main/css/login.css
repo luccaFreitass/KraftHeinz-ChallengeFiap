@@ -1,0 +1,37 @@
+body{
+    background-color: #ffff;
+}
+
+.container-sm{
+    background-color: var(--bg-color-primary);
+    width: 45%;
+    min-width: 45%;
+    min-height: 75vh;
+}
+
+.form-control{
+    color: transparent;
+    background-color: var(--bg-color-secondary);
+    border: none;
+    padding: 1.8rem 1.8rem;
+}
+
+.form-control::placeholder {
+    color: #ffff;
+}
+
+.form-control:focus{
+    background-color: var(--bg-color-secondary);
+}
+
+.box-form{
+    min-width: 80%;
+}
+
+.btn{
+    padding: 1.7rem 7rem;
+}
+
+.container-inputs{
+    height: 30vh;
+}

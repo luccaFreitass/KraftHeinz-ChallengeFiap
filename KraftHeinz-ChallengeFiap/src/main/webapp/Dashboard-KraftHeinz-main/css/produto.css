@@ -1,0 +1,61 @@
+.box-titles{
+    width: 100%;
+    height: 15vh;
+}
+
+.card-produto{
+    width: 35%;
+    background-color: transparent;
+    border: none;
+}
+
+.box-img-card{
+    background-color: #fff;
+}
+
+.box-linha{
+    min-height: 15vh;
+}
+
+.box-informacoes{
+    width: 90%;
+    background-color: var(--bg-color-secondary);
+}
+
+.bg-card-body-perguntas{
+    width: 100%;
+    background-color: #A5BBD7;
+}
+
+.bg-card-body-perguntas p{
+    color: var(--bg-color-primary);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.card-num-pergunta{
+    width: 100%;
+    height: 5vh;
+    background-color: #ffff;
+}
+
+.card-pergunta{
+    width: 100%;
+    height: 12vh;
+}
+
+.card-pergunta p{
+    background-color: #fff;
+}
+
+.resposta-sim-nao{
+    background-color: #fff;
+}
+
+.respostas-total{
+    background-color: #fff;
+}
+
+.quant-total{
+    height: 12vh;
+}
